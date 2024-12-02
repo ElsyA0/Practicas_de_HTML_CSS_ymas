@@ -1,0 +1,38 @@
+.navbar-brand{
+    color:#ffffff;
+
+}
+
+.carousel-inner{
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+body{
+    background-color:white;
+    margin: 20px;
+}
+nav{
+    color: #F2EB80;
+    background-color: #efedeb
+}
+h5{
+    color: #F2EB80;
+}
+div.container{
+    background-color: #ffffff;
+    color: #D9984A;
+    margin: 30px;
+    text-align: justify;
+}
+img{
+
+}
+div.row{
+    align-items:end;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
